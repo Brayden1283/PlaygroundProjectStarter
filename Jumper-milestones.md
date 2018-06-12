@@ -1,0 +1,4 @@
+-Fix the lasers so they shoot straighter
+-add additional parts so the game stays fun
+-add harder parts to it so its challenging and not super easy
+-
